@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "765204599321",
+    "firebase_url": "https://basicproject-68e2f.firebaseio.com",
+    "project_id": "basicproject-68e2f",
+    "storage_bucket": "basicproject-68e2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765204599321:android:711e5d17097f2a43",
+        "android_client_info": {
+          "package_name": "com.example.lenghia.basicproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765204599321-ef5le47eqec8ouj1ckgcrki9sv87vdav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenghia.basicproject",
+            "certificate_hash": "b601836058ae9709d1d2e801cb92c6fd7fb7e28e"
+          }
+        },
+        {
+          "client_id": "765204599321-m4on960gg43qifdd9e5q9h9u5capkm46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANp3lxj2q4SlFoumVfSXXkhJg8HqHGI4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765204599321-m4on960gg43qifdd9e5q9h9u5capkm46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
